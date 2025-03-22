@@ -1,16 +1,16 @@
-# Bertelsmann_Arvato_Project
+# Bertelsmann Arvato Project
 
 This repository contains the solution for the Bertelsmann Arvato Financial Solutions project, developed as part of the Udacity Data Science Nanodegree Program. The project focuses on customer segmentation using demographic data and building a predictive machine learning model.
 
 ## GitHub Repository
 
 The source code for this project is hosted on GitHub:  
-[Arvato Project Repository](https://github.com/Makarand7/Bertelsmann_Arvato_Project)
+[Bertelsmann Arvato Project Repository](https://github.com/Makarand7/Bertelsmann_Arvato_Project)
 
 ## Web Application 
 
 Web Application for this project is hosted on Streamlit:  
-[Bertelsmann Arvato Project Web App](<link>)
+[Bertelsmann Arvato Project Web App](https://bertelsmann-arvato-project-ammqvimjvkrdzksiee7pmh.streamlit.app/)
 
 ## Project Overview
 
