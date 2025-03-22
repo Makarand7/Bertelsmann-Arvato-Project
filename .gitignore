@@ -1,0 +1,22 @@
+# .gitignore
+# Python cache files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore large CSV data files
+data/Udacity_AZDIAS_052018.csv
+data/Udacity_CUSTOMERS_052018.csv
+data/Udacity_MAILOUT_052018_TRAIN.csv
+
+# Environment files
+*.env
+.env/
+
+# Logs and temporary files
+*.log
+*.sqlite3
+
+# System files
+.DS_Store
+Thumbs.db
