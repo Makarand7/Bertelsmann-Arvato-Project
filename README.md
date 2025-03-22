@@ -5,7 +5,7 @@ This repository contains the solution for the Bertelsmann Arvato Financial Solut
 ## GitHub Repository
 
 The source code for this project is hosted on GitHub:  
-[Bertelsmann Arvato Project Repository](https://github.com/Makarand7/Bertelsmann_Arvato_Project)
+[Bertelsmann Arvato Project Repository](https://github.com/Makarand7/Bertelsmann-Arvato-Project)
 
 ## Web Application 
 
